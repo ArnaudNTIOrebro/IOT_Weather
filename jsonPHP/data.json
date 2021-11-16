@@ -1,0 +1,37 @@
+{
+    "Places": [
+    {
+        "name":"weather station 1",
+        "location":"Örebro",
+        "temperature":13,
+        "humidity": 30
+    },
+    {
+        "name":"weather station 2",
+        "location":"Odensbacken",
+        "temperature":16,
+        "humidity": 50
+    },
+    {
+        "name":"weather station 3",
+        "location":"Kumla",
+        "temperature":12,
+        "humidity": 60
+    },
+    {
+        "name":"weather station 4",
+        "location":"Hallsberg",
+        "temperature":18,
+        "humidity": 25
+    },
+    {
+        "name":"weather station 5",
+        "location":"Nora",
+        "temperature":11,
+        "humidity": 15
+    }
+  ]
+
+
+  
+}
